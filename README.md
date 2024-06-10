@@ -1,2 +1,2 @@
 # TinyStorBufferManager
-一个简易的存储和缓存管理器
+一个简易的存储和内存管理器
